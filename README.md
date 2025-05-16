@@ -9,10 +9,15 @@
   
   <h3>Java Full Stack Developer | Java 17 Certified | AWS Certified | Microservices Expert</h3>
 </div>
+<div align="center">
 
-## 👋 Welcome to My Portfolio
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-brightgreen)](https://yerranaveen.github.io/naveenyerra-portfolio/)
+  
+</div>
 
-Thank you for visiting my portfolio website! This site showcases my professional journey, skills, and projects as a Java Full Stack Developer with nearly 5 years of experience building enterprise-grade applications in the banking sector.
+## 👋 Welcome to My Github
+
+Thank you for visiting my github! This site showcases my professional journey, skills, and projects as a Java Full Stack Developer with nearly 5 years of experience building enterprise-grade applications in the banking sector.
 
 ## 🚀 About Me
 
