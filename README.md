@@ -1,4 +1,5 @@
 # 👨‍💻 Naveen Yerra - Welcome
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yerranaveen&label=Profile%20views&color=0e75b6&style=flat" alt="yerranaveen" /> </p>
 
 <div align="center">
 <!--   <img src="https://media.licdn.com/dms/image/v2/D4E03AQE_N_Uc6ugbWw/profile-displayphoto-shrink_800_800/B4EZQYi0MFGwAg-/0/1735578568051?e=1741219200&v=beta&t=IE2Z-11DPIVbh0IU_X-wmjO2aqFLWsV46oXI6g9OJrs" alt="Naveen Yerra" width="200" style="border-radius: 50%;"> -->
@@ -25,7 +26,6 @@ I am a passionate Java Full Stack Developer based in Plano, TX, specializing in 
 
 Currently working at HSBC Bank, I focus on modernizing legacy systems into microservices architectures while ensuring robust security, high performance, and excellent user experience.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yerranaveen&label=Profile%20views&color=0e75b6&style=flat" alt="yerranaveen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yerranaveen" alt="yerranaveen" /></a> </p>
 
