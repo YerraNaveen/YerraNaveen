@@ -38,10 +38,6 @@ Currently working at HSBC Bank, I focus on modernizing legacy systems into micro
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yerranaveen&show_icons=true&locale=en&layout=compact" alt="yerranaveen" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yerranaveen&" alt="yerranaveen" /></p>
-
 ## 💻 Technical Skills
 
 ### Core Languages
